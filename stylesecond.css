@@ -1,0 +1,64 @@
+header{
+    background:#407AFF;
+}
+
+body {
+    background: #000000;
+ }
+
+.titulo-principal {
+    font-size: 30px;
+    color: white;
+    font-weight:bold;
+    position:absolute;
+    width: 940px;
+    top: 200px;
+    right: 100px;
+}
+
+main {
+    padding: 50px 0;
+    color: white;
+}
+
+main li {
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    width: 30%;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid #407AFF ;
+}
+
+main li:hover{
+    border-color: #C78C19;
+}
+
+main  li:active {
+    border-color: #ffffff;    
+}
+
+main h3 {
+    font-size: 30px;
+    font-weight: lighter;
+}
+main li:hover h3{
+    font-size:40px ;
+}
+
+main p{
+    font-size: 18px;
+}
+
+ footer {
+    text-align: center;
+    background:#407AFF;
+}
+
+.copyright{
+    color: #ffffff;
+    font-size: 13px;
+}
+

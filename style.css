@@ -1,0 +1,100 @@
+header {
+    padding: 30px 5px ;
+}
+
+nav li {
+    display: inline ;
+    padding: 0 10px;
+ }
+
+nav a {
+    text-transform: uppercase ;
+    color: #407AFF;
+    font-weight:bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
+
+#open {
+    width:  100%;
+}
+
+body {
+    background: #000000;
+ }
+
+.titulo-centralizado {
+    text-align: center ;
+ }
+
+.titulo-principal {
+    color: white;
+    font-weight:bold;
+    font-size: 30px;
+    padding: 10px 0 ;
+    
+}
+
+.principal {
+    color: white;
+    font-size: 22px;           
+    padding: 30px;
+}
+
+h2 {
+    font-weight:bold;
+    font-size: 25px; 
+    padding: 30px;
+}
+
+#frase {
+    font-size: 22px;
+    color: #407AFF;
+    font-weight:bold;
+    padding: 30px;
+}
+
+.sobremim {
+    background:black;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 20px;
+      }
+
+h3 {
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 0 0 20px 0;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin: 10% 15% 0 0 ;
+    font-size: 22px;
+}
+ 
+.me {
+    width: 40%;
+    height: 500px;
+    border: 5px solid #407AFF;
+}
+
+footer {
+    text-align: center;
+    background:#407AFF;
+   
+}
+
+.copyright{
+    color: #ffffff;
+    font-size: 13px;
+}
